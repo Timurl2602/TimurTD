@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be5374a0681c43e4946c559aae9efcaa, type: 3}
   m_Name: SignalsEditorDatabase
   m_EditorClassIdentifier: 
-  signalTypes: []
+  signalTypes:
+  - m_Name: BuildModeSignal
+    m_AssemblyQualifiedName: BuildModeSignal, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    m_AssemblyName: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - m_Name: Signal
+    m_AssemblyQualifiedName: Supyrb.Signal, Supyrb.Signals, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    m_AssemblyName: Supyrb.Signals, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
