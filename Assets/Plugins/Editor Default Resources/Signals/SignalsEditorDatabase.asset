@@ -13,13 +13,9 @@ MonoBehaviour:
   m_Name: SignalsEditorDatabase
   m_EditorClassIdentifier: 
   signalTypes:
-  - m_Name: BuildModeStartedSignal
-    m_AssemblyQualifiedName: BuildModeStartedSignal, Assembly-CSharp, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_AssemblyName: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-  - m_Name: BuildModeStoppedSignal
-    m_AssemblyQualifiedName: BuildModeStoppedSignal, Assembly-CSharp, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
+  - m_Name: BuildModeSignal
+    m_AssemblyQualifiedName: BuildModeSignal, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
     m_AssemblyName: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   - m_Name: Signal
     m_AssemblyQualifiedName: Supyrb.Signal, Supyrb.Signals, Version=0.0.0.0, Culture=neutral,
